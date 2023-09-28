@@ -1,0 +1,13 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using Sweeft.Algorithms;
+global using Ardalis.SmartEnum;
+global using System.Linq;
+global using Microsoft.EntityFrameworkCore;
+global using Sweeft.Entities;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Sweeft.Enums;
+global using Sweeft.Configuration;
+global using Microsoft.EntityFrameworkCore.Design;
+global using Microsoft.Extensions.Configuration;
+global using Sweeft.IService;
